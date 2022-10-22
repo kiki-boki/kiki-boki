@@ -9,7 +9,7 @@
 <li> 😍 <i> MUSLIM</i></li>
 <li> 🌚 <i> SINGLE</i></li>
 <li> 👩‍💻 <i> TEACHER</i></li>
-<li> 🌟 <i> FOCUSING ON PYTHON</i></li><br>
+<li> 🌟 <i> FOCUSING ON PYTHON AND SHELL</i></li><br>
 
 ## MY SOCIAL MEDIA
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/kiki-boki) [![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=red&labelColor=white)](https://t.me/bokiofficial8)
