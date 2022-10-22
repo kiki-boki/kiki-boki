@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Hello+Do+you+know+with+me!;I'm+Handsome+You+Know!;My+Call+Is+Boki;Nice+to+meet+you&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 
 </p>
-<h1 align="center">★ Fuck Broo! ★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
+<h1 align="center">★ Oh Yeahh! ★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
 <h1 align="center">★ STATISTICS ★</i></b></h3>
 <a href="https://github.com/Hunter-alamin"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Hunter-alamin&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 <li> 😍 <i> MUSLIM</i></li>
