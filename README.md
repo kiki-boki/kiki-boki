@@ -8,7 +8,7 @@
 <a href="https://github.com/Hunter-alamin"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Hunter-alamin&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 <li> 😍 <i> MUSLIM</i></li>
 <li> 🌚 <i> SINGLE</i></li>
-<li> 👩‍💻 <i> TEACHER</i></li>
+<li> 👩‍💻 <i> CODING</i></li>
 <li> 🌟 <i> FOCUSING ON PYTHON AND SHELL</i></li><br>
 
 ## MY SOCIAL MEDIA
