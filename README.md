@@ -12,7 +12,7 @@
 <li> 🌟 <i> FOCUSING ON PYTHON AND SHELL</i></li><br>
 
 ## MY SOCIAL MEDIA
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/kiki-boki) [![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=red&labelColor=white)](https://t.me/bokiofficial8)
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/kiki-boki) [![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=red&labelColor=white)](https://t.me/bokiofficial1)
 [![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/bokiofficial88) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+6283192495253?text=Asalamualaikum+kak+Kiki+ganteng)
 ## Mampir Doang Ngak Ngasih Rate:v🌟🌟🌟🌟🌟🌟🌟
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=THANK+YOU+FOR+ATTENDING....!+)
